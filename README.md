@@ -28,13 +28,13 @@
 - Gabriel (https://github.com/G4BR1TRZ)
 
 ## Roadmap
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/roadmap-lacalaka.JPG" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/blob/master/repository/img/roadmap-lacalaka.JPG" width="400"></a></p>
 
 ## Mockup
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/mockup-lacalaka.JPG" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/blob/master/repository/img/mockup-lacalaka.JPG" width="400"></a></p>
 
 ## Prototype
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/prototype.JPG" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/blob/master/repository/img/prototype.JPG" width="400"></a></p>
 
 
 
