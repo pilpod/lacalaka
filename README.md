@@ -1,3 +1,43 @@
+## Introdución
+
+- Red social para quedar y irse de fiesta. Publicación de eventos. Registro de usuarios así como de organizaciones del sector público o privado.
+
+## Requisitos
+- Laravel 8
+- php 7.4
+- composer (the last)
+- Breeze Package
+- livewire
+- database mySQL
+
+## Instalación
+- composer create -project --prefer -dist laravel/laravel <name>
+- composer require laravel/breeze --dev
+- php artisan breeze:install
+- npm install && npm run dev
+- php artisan migrate
+
+## Running App
+- php artisan serve
+
+## Creators (Factoria F5)
+- Pilpod (https://github.com/pilpod)
+- Vanessa (https://github.com/vanessacor)
+- RaykoTab (https://github.com/raykotab)
+- René (https://github.com/renejfc)
+- Gabriel (https://github.com/G4BR1TRZ)
+
+## Roadmap
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/roadmap-lacalaka.JPG" width="400"></a></p>
+
+## Mockup
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/mockup-lacalaka.JPG" width="400"></a></p>
+
+## Prototype
+<p align="center"><a href="#" target="_blank"><img src="https://github.com/pilpod/lacalaka/tree/master/repository/img/prototype.JPG" width="400"></a></p>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
